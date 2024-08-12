@@ -4,6 +4,10 @@
 - 📧 Email: sun10220466@gmail.com
 - 🌐 [Notion](https://carpal-fruit-c12.notion.site/d511d5fe05994c5c83dad3f8da07ada8?pvs=4)
 
+## 📁 Projects
+### 🛠️ [숨고 클론코딩](https://github.com/joosun0823/clone_coding.git)
+- 숨은 고수 홈페이지의 메인화면, 로그인, 회원가입, 커뮤니티를 직접 구조를 잡고 스타일을 입히며 클론코딩 진행 하였습니다.
+
 
 ### 🧑‍🤝‍🧑 [알흠](https://github.com/joosun0823/Menbosa.git)
 ### 프로젝트 제작 배경
@@ -17,9 +21,6 @@
 
 - 개인의 생애 주기별 경험과 추억을 기록하고 공유할 수 있는 플랫폼입니다.
 - 사용자들이 자신의 삶을 일기 형식으로 기록하고 이를 공유함으로써 공감을 형성하고 채팅도 할 수 있는 플랫폼입니다.
-
-### 🛠️ [숨고 클론코딩](https://github.com/joosun0823/clone_coding.git)
-- 숨은 고수 홈페이지의 메인화면, 로그인, 회원가입, 커뮤니티를 직접 구조를 잡고 스타일을 입히며 클론코딩 진행 하였습니다.
 
 ##  📚 Skills and Experience
 
