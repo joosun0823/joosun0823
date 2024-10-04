@@ -6,7 +6,7 @@
 😃 김주선
 
 📧 Email: sun10220466@gmail.com
-🌐 [Notion](https://carpal-fruit-c12.notion.site/d511d5fe05994c5c83dad3f8da07ada8?pvs=4)
+🌐 [Notion](https://carpal-fruit-c12.notion.site/11091676dd27804c95efde6f41fd72cf?pvs=4)
 </div>
 
 <br>
